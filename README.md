@@ -1,8 +1,9 @@
 # Pass Generator CLI
 
-![Python Version](https://shields.io)
-![Repo Size](https://shields.io)
-![Stage](https://shields.io)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DaRealDSA/passgenerator_cli)
+
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Repo Size](https://img.shields.io/github/repo-size/DaRealDSA/passgenerator_cli)
 
 A lightweight, user-friendly tool designed to generate secure, randomized passwords instantly. With only python
 
