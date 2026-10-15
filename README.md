@@ -1,5 +1,9 @@
 # Pass Generator CLI
 
+![Python Version](https://shields.io)
+![Repo Size](https://shields.io)
+![Stage](https://shields.io)
+
 A lightweight, user-friendly tool designed to generate secure, randomized passwords instantly. With only python
 
 This tool includes all the **ASCII characters** with the choice of characters length and amount genererated of yours.
